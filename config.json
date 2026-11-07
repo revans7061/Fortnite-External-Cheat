@@ -1,0 +1,6 @@
+{
+  "aimbot": { "enabled": true, "fov": 8, "smooth": 3, "bone": "head", "hotkey": "MOUSE5" },
+  "triggerbot": { "enabled": true, "delay_ms": 40 },
+  "esp": { "enabled": true, "box": true, "skeleton": true, "health": true, "max_distance": 400 },
+  "overlay": { "streamproof": true }
+}
